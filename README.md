@@ -8,7 +8,7 @@ Try to explore the possibility of build a perfect model of communist-enterprise
 
 或许是乌托邦，或许是未来。
 
-# 项目初衷
+## 项目初衷
 
 空想社会主义终究不可取，我们需要科学的社会主义来支持我们的共产主义革命。
 
@@ -16,7 +16,7 @@ Try to explore the possibility of build a perfect model of communist-enterprise
 
 为了记录思想，持续迭代，特此开辟仓库。
 
-# 大纲
+## 大纲
 
 第一部分：[企业设计](./company/basic.md)
 
