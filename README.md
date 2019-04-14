@@ -4,3 +4,5 @@ Try to explore the possibility of build a perfect model of communist-enterprise
 尝试探索构建一个共产主义企业的蓝图
 
 或许是乌托邦，或许是未来。
+
+第一部分：[企业设计](./company/basic.md)
